@@ -1,0 +1,1 @@
+﻿So basically, i made an interface called [IConfig](IConfig.cs) for you to edit, i tryed to implement a simple xml implementation for you to tinker and test with.
